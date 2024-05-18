@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: TrelloAPI
+  annotations:
+    github.com/project-slug: ajithSkr/TrelloAPI
+spec:
+  type: other
+  lifecycle: unknown
+  owner: user
